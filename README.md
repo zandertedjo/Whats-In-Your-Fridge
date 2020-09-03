@@ -8,4 +8,4 @@ Built using RCNN for region proposal, transfer learning with ResNet and MobileNe
 
 Video link: https://youtu.be/wPC33rih-f4
 
-* Code could not be posted since files and neural network weights were too large.
+*Code could not be posted since files and neural network weights were too large.
